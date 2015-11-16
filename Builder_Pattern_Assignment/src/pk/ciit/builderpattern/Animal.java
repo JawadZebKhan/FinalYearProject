@@ -4,7 +4,9 @@ public abstract class Animal {
 	String arm, body, head, leg, tail;
 
 	public String getArm() {
-		return arm;
+	
+		
+		return arm+"Hello World";
 	}
 
 	public void setArm(String arm) {
